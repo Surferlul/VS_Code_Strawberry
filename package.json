@@ -5,7 +5,7 @@
     "publisher": "Surferlul",
     "version": "1.0.2",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.36"
     },
     "author": {
 	"name": "Lukas Alexander Baumann",

@@ -1,11 +1,6 @@
 {
-    "editor.renderWhitespace": "none",
-    "editor.minimap.enabled": false,
-    "workbench.colorTheme": "strawberry",
-    "workbench.colorCustomizations": {
-    
-
-        "[Strawberry]": {
+    "name": "strawberry",
+    "colors": {
             "focusBorder": "#f07171",
             "foreground": "#21e441",
             "widget.shadow": "#000000",
@@ -154,11 +149,8 @@
             "gitDecoration.stageModifiedResourceForeground": "#399ee6",
             "settings.modifiedItemIndicator": "#399ee6",
             "notebook.focusedRowBorder": "#f07171"
-        }
     },
-    "editor.tokenColorCustomizations": {
-        "[Strawberry]": {
-            "textMateRules": [
+    "tokenColors": [
                 {
                     "scope": "invalid",
                     "settings": {
@@ -557,12 +549,5 @@
                         "foreground": "#78bd65"
                     }
                 }
-            ]
-        }
-    },
-    "breadcrumbs.enabled": false,
-    "workbench.editor.showTabs": false,
-    "editor.semanticTokenColorCustomizations": null,
-    "window.menuBarVisibility": "toggle",
-    "workbench.statusBar.visible": false
+    ]
 }

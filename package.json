@@ -3,7 +3,7 @@
     "displayName": "Strawberry",
     "description": "A Theme with a focus on intensive strawberry red",
     "publisher": "Surferlul",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.36.0"
     },

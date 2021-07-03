@@ -2,9 +2,19 @@
     "name": "strawberry",
     "displayName": "Strawberry",
     "description": "A Theme with a focus on intensive strawberry red",
-    "version": "0.0.1",
+    "publisher": "Surferlul",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.57.0"
+    },
+    "author": {
+	"name": "Lukas Alexander Baumann",
+	"email": "lukasabaumann@gmail.com",
+	"url": "https://surferlul.github.io/"
+    },
+    "repository": {
+	"url": "https://github.com/Surferlul/VS_Code_Strawberry.git",
+	"type": "git"
     },
     "categories": [
         "Themes"

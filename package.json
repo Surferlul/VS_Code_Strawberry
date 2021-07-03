@@ -1,0 +1,21 @@
+{
+    "name": "strawberry",
+    "displayName": "Strawberry",
+    "description": "A Theme with a focus on intensive strawberry red",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Strawberry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Strawberry-color-theme.json"
+            }
+        ]
+    }
+}
